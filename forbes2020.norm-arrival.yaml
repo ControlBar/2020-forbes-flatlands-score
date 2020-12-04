@@ -1,0 +1,173 @@
+pilotsAtEss:
+- 0
+- 19
+- 14
+- 0
+arrivalRank:
+- []
+- - - - '92'
+      - Attila Bertok
+    - lag: 0.000000 h
+      rank: '1'
+      frac: 1
+  - - - '43'
+      - Jonny Durand
+    - lag: 0.243333 h
+      rank: '2'
+      frac: 0.88994926
+  - - - '116'
+      - Filippo Oppici
+    - lag: 0.245000 h
+      rank: '3'
+      frac: 0.7905858
+  - - - '7'
+      - Olav Opsanger
+    - lag: 0.288889 h
+      rank: '4'
+      frac: 0.70135588
+  - - - '62'
+      - Josh Woods
+    - lag: 0.292778 h
+      rank: '5'
+      frac: 0.62170579
+  - - - '147'
+      - Oyvind Ellefsen
+    - lag: 0.318056 h
+      rank: '6'
+      frac: 0.55108179
+  - - - '75'
+      - Yasuhiro Noma
+    - lag: 0.463333 h
+      rank: '7'
+      frac: 0.48893016
+  - - - '153'
+      - Pedro L. Garcia
+    - lag: 0.499167 h
+      rank: '8'
+      frac: 0.43469719
+  - - - '146'
+      - Jonas Lobitz
+    - lag: 0.712222 h
+      rank: '9'
+      frac: 0.38782913
+  - - - '74'
+      - Vic Hare
+    - lag: 0.894167 h
+      rank: '10'
+      frac: 0.34777227
+  - - - '112'
+      - Lukas Bader
+    - lag: 0.926944 h
+      rank: '11'
+      frac: 0.31397288
+  - - - '31'
+      - Trent Brown
+    - lag: 1.175278 h
+      rank: '12'
+      frac: 0.28587724
+  - - - '145'
+      - Philippe Michaud
+    - lag: 1.330556 h
+      rank: '13'
+      frac: 0.26293162
+  - - - '77'
+      - Brodrick Osborne
+    - lag: 1.332222 h
+      rank: '14'
+      frac: 0.2445823
+  - - - '15'
+      - Ryosuke Hattori
+    - lag: 1.409722 h
+      rank: '15'
+      frac: 0.23027555
+  - - - '149'
+      - Marc-Andre Rathe
+    - lag: 1.473333 h
+      rank: '16'
+      frac: 0.21945765
+  - - - '28'
+      - Mikhail Karmazin
+    - lag: 1.619444 h
+      rank: '17'
+      frac: 0.21157487
+  - - - '142'
+      - Satoshi Nakamura
+    - lag: 1.800556 h
+      rank: '18'
+      frac: 0.20607348
+  - - - '139'
+      - Youngdon Lee
+    - lag: 2.075000 h
+      rank: '19'
+      frac: 0.20239977
+- - - - '92'
+      - Attila Bertok
+    - lag: 0.000000 h
+      rank: '1'
+      frac: 1
+  - - - '62'
+      - Josh Woods
+    - lag: 0.008333 h
+      rank: '2'
+      frac: 0.85326421
+  - - - '22'
+      - Rohan Taylor
+    - lag: 0.026389 h
+      rank: '3'
+      frac: 0.7258484
+  - - - '146'
+      - Jonas Lobitz
+    - lag: 0.029444 h
+      rank: '4'
+      frac: 0.61636844
+  - - - '116'
+      - Filippo Oppici
+    - lag: 0.092222 h
+      rank: '5'
+      frac: 0.52344023
+  - - - '31'
+      - Trent Brown
+    - lag: 0.093056 h
+      rank: '6'
+      frac: 0.44567966
+  - - - '43'
+      - Jonny Durand
+    - lag: 0.093889 h
+      rank: '7'
+      frac: 0.38170262
+  - - - '145'
+      - Philippe Michaud
+    - lag: 0.101944 h
+      rank: '8'
+      frac: 0.330125
+  - - - '154'
+      - Steve Blackler
+    - lag: 0.309167 h
+      rank: '9'
+      frac: 0.28956268
+  - - - '7'
+      - Olav Opsanger
+    - lag: 0.510833 h
+      rank: '10'
+      frac: 0.25863156
+  - - - '112'
+      - Lukas Bader
+    - lag: 0.540000 h
+      rank: '11'
+      frac: 0.23594752
+  - - - '147'
+      - Oyvind Ellefsen
+    - lag: 0.698056 h
+      rank: '12'
+      frac: 0.22012646
+  - - - '104'
+      - Howard Jones
+    - lag: 0.938333 h
+      rank: '13'
+      frac: 0.20978426
+  - - - '74'
+      - Vic Hare
+    - lag: 1.262778 h
+      rank: '14'
+      frac: 0.20353681
+- []
