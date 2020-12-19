@@ -1,0 +1,3670 @@
+stopWindow:
+- null
+- null
+- null
+- null
+stopFlying:
+- - - - '155'
+      - Abe Kemp
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '150'
+      - Alexey Labzin
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2773
+        scoredSeconds:
+        - 0
+        - 2773
+        scoredTimes:
+        - 2020-01-07T05:28:21Z
+        - 2020-01-07T06:14:34Z
+        scoredWindowSeconds: 2773
+  - - - '152'
+      - Andrey Solomykin
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3119
+        - 15867
+        scoredSeconds:
+        - 3119
+        - 15869
+        scoredTimes:
+        - 2020-01-07T04:15:24Z
+        - 2020-01-07T07:47:54Z
+        scoredWindowSeconds: 12750
+  - - - '92'
+      - Attila Bertok
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 26
+        - 14222
+        scoredSeconds:
+        - 26
+        - 14377
+        scoredTimes:
+        - 2020-01-07T04:36:47Z
+        - 2020-01-07T08:35:58Z
+        scoredWindowSeconds: 14351
+  - - - '77'
+      - Brodrick Osborne
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 11147
+        scoredSeconds:
+        - 0
+        - 11147
+        scoredTimes:
+        - 2020-01-07T04:47:33Z
+        - 2020-01-07T07:53:20Z
+        scoredWindowSeconds: 11147
+  - - - '151'
+      - Claudia Mejia
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 5566
+        - 7984
+        scoredSeconds:
+        - 5566
+        - 7984
+        scoredTimes:
+        - 2020-01-07T06:56:11Z
+        - 2020-01-07T07:36:29Z
+        scoredWindowSeconds: 2418
+  - - - '134'
+      - Dale Regehr
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 8133
+        scoredSeconds:
+        - 0
+        - 8133
+        scoredTimes:
+        - 2020-01-07T04:19:01Z
+        - 2020-01-07T06:34:34Z
+        scoredWindowSeconds: 8133
+  - - - '144'
+      - Enda Carrigan
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 1723
+        - 13083
+        scoredSeconds:
+        - 1723
+        - 13083
+        scoredTimes:
+        - 2020-01-07T05:09:16Z
+        - 2020-01-07T08:18:36Z
+        scoredWindowSeconds: 11360
+  - - - '138'
+      - Eungseng Kang
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 5916
+        - 7527
+        scoredSeconds:
+        - 5916
+        - 7527
+        scoredTimes:
+        - 2020-01-07T07:21:52Z
+        - 2020-01-07T07:48:43Z
+        scoredWindowSeconds: 1611
+  - - - '116'
+      - Filippo Oppici
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 13049
+        scoredSeconds:
+        - 0
+        - 13093
+        scoredTimes:
+        - 2020-01-07T04:41:45Z
+        - 2020-01-07T08:19:58Z
+        scoredWindowSeconds: 13093
+  - - - '120'
+      - Hiroshi Ono
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 4702
+        - 8801
+        scoredSeconds:
+        - 4702
+        - 8801
+        scoredTimes:
+        - 2020-01-07T06:01:53Z
+        - 2020-01-07T07:10:12Z
+        scoredWindowSeconds: 4099
+  - - - '104'
+      - Howard Jones
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3002
+        - 11633
+        scoredSeconds:
+        - 3002
+        - 11633
+        scoredTimes:
+        - 2020-01-07T04:55:31Z
+        - 2020-01-07T07:19:22Z
+        scoredWindowSeconds: 8631
+  - - - '136'
+      - Jaeyong Hwang
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '146'
+      - Jonas Lobitz
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 7591
+        scoredSeconds:
+        - 0
+        - 7591
+        scoredTimes:
+        - 2020-01-07T05:04:53Z
+        - 2020-01-07T07:11:24Z
+        scoredWindowSeconds: 7591
+  - - - '43'
+      - Jonny Durand
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 13689
+        scoredSeconds:
+        - 0
+        - 13689
+        scoredTimes:
+        - 2020-01-07T04:45:17Z
+        - 2020-01-07T08:33:26Z
+        scoredWindowSeconds: 13689
+  - - - '62'
+      - Josh Woods
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 13387
+        scoredSeconds:
+        - 0
+        - 13387
+        scoredTimes:
+        - 2020-01-07T04:29:53Z
+        - 2020-01-07T08:13:00Z
+        scoredWindowSeconds: 13387
+  - - - '126'
+      - Konstantin Lukyanov
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 11616
+        scoredSeconds:
+        - 0
+        - 11616
+        scoredTimes:
+        - 2020-01-07T04:23:48Z
+        - 2020-01-07T07:37:24Z
+        scoredWindowSeconds: 11616
+  - - - '112'
+      - Lukas Bader
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 15
+        - 9073
+        scoredSeconds:
+        - 15
+        - 9073
+        scoredTimes:
+        - 2020-01-07T05:03:19Z
+        - 2020-01-07T07:34:17Z
+        scoredWindowSeconds: 9058
+  - - - '149'
+      - Marc-Andre Rathe
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 8351
+        scoredSeconds:
+        - 0
+        - 8351
+        scoredTimes:
+        - 2020-01-07T05:20:34Z
+        - 2020-01-07T07:39:45Z
+        scoredWindowSeconds: 8351
+  - - - '135'
+      - Marcin Gil
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 12936
+        scoredSeconds:
+        - 0
+        - 12936
+        scoredTimes:
+        - 2020-01-07T05:30:01Z
+        - 2020-01-07T09:05:37Z
+        scoredWindowSeconds: 12936
+  - - - '156'
+      - Masayoshi Iwasaki
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 4951
+        scoredSeconds:
+        - 0
+        - 4951
+        scoredTimes:
+        - 2020-01-07T05:55:27Z
+        - 2020-01-07T07:17:58Z
+        scoredWindowSeconds: 4951
+  - - - '28'
+      - Mikhail Karmazin
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '7'
+      - Olav Opsanger
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 12280
+        scoredSeconds:
+        - 0
+        - 12280
+        scoredTimes:
+        - 2020-01-07T04:37:45Z
+        - 2020-01-07T08:02:25Z
+        scoredWindowSeconds: 12280
+  - - - '147'
+      - Oyvind Ellefsen
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 6945
+        scoredSeconds:
+        - 0
+        - 6945
+        scoredTimes:
+        - 2020-01-07T05:15:46Z
+        - 2020-01-07T07:11:31Z
+        scoredWindowSeconds: 6945
+  - - - '153'
+      - Pedro L. Garcia
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 12919
+        scoredSeconds:
+        - 0
+        - 12919
+        scoredTimes:
+        - 2020-01-07T04:41:11Z
+        - 2020-01-07T08:16:30Z
+        scoredWindowSeconds: 12919
+  - - - '14'
+      - Peter Burkitt
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 1284
+        - 8824
+        scoredSeconds:
+        - 1284
+        - 8824
+        scoredTimes:
+        - 2020-01-07T05:22:48Z
+        - 2020-01-07T07:28:28Z
+        scoredWindowSeconds: 7540
+  - - - '145'
+      - Philippe Michaud
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2490
+        - 10770
+        scoredSeconds:
+        - 2490
+        - 10770
+        scoredTimes:
+        - 2020-01-07T05:34:00Z
+        - 2020-01-07T07:52:00Z
+        scoredWindowSeconds: 8280
+  - - - '128'
+      - Rich Reinauer
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 10130
+        scoredSeconds:
+        - 0
+        - 10130
+        scoredTimes:
+        - 2020-01-07T05:28:51Z
+        - 2020-01-07T08:17:41Z
+        scoredWindowSeconds: 10130
+  - - - '85'
+      - Rick Martin
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 10025
+        scoredSeconds:
+        - 0
+        - 10025
+        scoredTimes:
+        - 2020-01-07T04:32:02Z
+        - 2020-01-07T07:19:07Z
+        scoredWindowSeconds: 10025
+  - - - '42'
+      - Rob de Groot
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '22'
+      - Rohan Taylor
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3614
+        scoredSeconds:
+        - 0
+        - 3614
+        scoredTimes:
+        - 2020-01-07T04:35:34Z
+        - 2020-01-07T05:35:48Z
+        scoredWindowSeconds: 3614
+  - - - '115'
+      - Roy Sadewo
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 4582
+        scoredSeconds:
+        - 0
+        - 4582
+        scoredTimes:
+        - 2020-01-07T05:35:54Z
+        - 2020-01-07T06:52:16Z
+        scoredWindowSeconds: 4582
+  - - - '15'
+      - Ryosuke Hattori
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 6485
+        - 11803
+        scoredSeconds:
+        - 6485
+        - 11803
+        scoredTimes:
+        - 2020-01-07T06:10:13Z
+        - 2020-01-07T07:38:51Z
+        scoredWindowSeconds: 5318
+  - - - '142'
+      - Satoshi Nakamura
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 9976
+        scoredSeconds:
+        - 0
+        - 9976
+        scoredTimes:
+        - 2020-01-07T05:02:48Z
+        - 2020-01-07T07:49:04Z
+        scoredWindowSeconds: 9976
+  - - - '154'
+      - Steve Blackler
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2391
+        - 12952
+        scoredSeconds:
+        - 2391
+        - 12952
+        scoredTimes:
+        - 2020-01-07T04:49:42Z
+        - 2020-01-07T07:45:43Z
+        scoredWindowSeconds: 10561
+  - - - '148'
+      - Thomas Mulder
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 7417
+        scoredSeconds:
+        - 0
+        - 7417
+        scoredTimes:
+        - 2020-01-07T05:16:56Z
+        - 2020-01-07T07:20:33Z
+        scoredWindowSeconds: 7417
+  - - - '31'
+      - Trent Brown
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 12855
+        scoredSeconds:
+        - 0
+        - 12855
+        scoredTimes:
+        - 2020-01-07T04:24:54Z
+        - 2020-01-07T07:59:09Z
+        scoredWindowSeconds: 12855
+  - - - '143'
+      - Ulrich Schneider
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 4356
+        scoredSeconds:
+        - 0
+        - 4356
+        scoredTimes:
+        - 2020-01-07T05:53:09Z
+        - 2020-01-07T07:05:45Z
+        scoredWindowSeconds: 4356
+  - - - '74'
+      - Vic Hare
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 14345
+        scoredSeconds:
+        - 0
+        - 14345
+        scoredTimes:
+        - 2020-01-07T04:29:00Z
+        - 2020-01-07T08:28:05Z
+        scoredWindowSeconds: 14345
+  - - - '75'
+      - Yasuhiro Noma
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 9759
+        scoredSeconds:
+        - 0
+        - 9759
+        scoredTimes:
+        - 2020-01-07T05:16:07Z
+        - 2020-01-07T07:58:46Z
+        scoredWindowSeconds: 9759
+  - - - '139'
+      - Youngdon Lee
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 4167
+        - 7476
+        scoredSeconds:
+        - 4167
+        - 7476
+        scoredTimes:
+        - 2020-01-07T06:06:24Z
+        - 2020-01-07T07:01:33Z
+        scoredWindowSeconds: 3309
+- - - - '155'
+      - Abe Kemp
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 5525
+        scoredSeconds:
+        - 271
+        - 11363
+        scoredTimes:
+        - 2020-01-08T03:58:23Z
+        - 2020-01-08T07:03:15Z
+        scoredWindowSeconds: 11092
+  - - - '150'
+      - Alexey Labzin
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '152'
+      - Andrey Solomykin
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 20394
+        scoredSeconds:
+        - 0
+        - 20394
+        scoredTimes:
+        - 2020-01-08T02:35:21Z
+        - 2020-01-08T08:15:15Z
+        scoredWindowSeconds: 20394
+  - - - '92'
+      - Attila Bertok
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 13668
+        scoredSeconds:
+        - 0
+        - 13668
+        scoredTimes:
+        - 2020-01-08T02:44:02Z
+        - 2020-01-08T06:31:50Z
+        scoredWindowSeconds: 13668
+  - - - '77'
+      - Brodrick Osborne
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 17159
+        scoredSeconds:
+        - 0
+        - 17159
+        scoredTimes:
+        - 2020-01-08T03:08:25Z
+        - 2020-01-08T07:54:24Z
+        scoredWindowSeconds: 17159
+  - - - '151'
+      - Claudia Mejia
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 8102
+        scoredSeconds:
+        - 0
+        - 8102
+        scoredTimes:
+        - 2020-01-08T03:22:00Z
+        - 2020-01-08T05:37:02Z
+        scoredWindowSeconds: 8102
+  - - - '134'
+      - Dale Regehr
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 5209
+        - 14667
+        scoredSeconds:
+        - 5211
+        - 14704
+        scoredTimes:
+        - 2020-01-08T03:38:34Z
+        - 2020-01-08T06:16:47Z
+        scoredWindowSeconds: 9493
+  - - - '144'
+      - Enda Carrigan
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2347
+        - 20141
+        scoredSeconds:
+        - 2347
+        - 20143
+        scoredTimes:
+        - 2020-01-08T03:00:05Z
+        - 2020-01-08T07:56:41Z
+        scoredWindowSeconds: 17796
+  - - - '138'
+      - Eungseng Kang
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 14233
+        - 15557
+        scoredSeconds:
+        - 14233
+        - 15557
+        scoredTimes:
+        - 2020-01-08T07:17:09Z
+        - 2020-01-08T07:39:13Z
+        scoredWindowSeconds: 1324
+  - - - '116'
+      - Filippo Oppici
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 14520
+        scoredSeconds:
+        - 0
+        - 14729
+        scoredTimes:
+        - 2020-01-08T02:38:46Z
+        - 2020-01-08T06:44:15Z
+        scoredWindowSeconds: 14729
+  - - - '120'
+      - Hiroshi Ono
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 571
+        - 18508
+        scoredSeconds:
+        - 571
+        - 18508
+        scoredTimes:
+        - 2020-01-08T02:10:48Z
+        - 2020-01-08T07:09:45Z
+        scoredWindowSeconds: 17937
+  - - - '104'
+      - Howard Jones
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 3188
+        scoredSeconds:
+        - 270
+        - 16178
+        scoredTimes:
+        - 2020-01-08T02:58:23Z
+        - 2020-01-08T07:23:31Z
+        scoredWindowSeconds: 15908
+  - - - '136'
+      - Jaeyong Hwang
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 1616
+        - 11725
+        scoredSeconds:
+        - 1616
+        - 11725
+        scoredTimes:
+        - 2020-01-08T04:13:01Z
+        - 2020-01-08T07:01:30Z
+        scoredWindowSeconds: 10109
+  - - - '146'
+      - Jonas Lobitz
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 16097
+        scoredSeconds:
+        - 0
+        - 16097
+        scoredTimes:
+        - 2020-01-08T02:50:43Z
+        - 2020-01-08T07:19:00Z
+        scoredWindowSeconds: 16097
+  - - - '43'
+      - Jonny Durand
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 14426
+        scoredSeconds:
+        - 0
+        - 14426
+        scoredTimes:
+        - 2020-01-08T02:42:05Z
+        - 2020-01-08T06:42:31Z
+        scoredWindowSeconds: 14426
+  - - - '62'
+      - Josh Woods
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 14414
+        scoredSeconds:
+        - 0
+        - 14414
+        scoredTimes:
+        - 2020-01-08T02:49:11Z
+        - 2020-01-08T06:49:25Z
+        scoredWindowSeconds: 14414
+  - - - '126'
+      - Konstantin Lukyanov
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '112'
+      - Lukas Bader
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 18679
+        scoredSeconds:
+        - 0
+        - 18679
+        scoredTimes:
+        - 2020-01-08T02:16:40Z
+        - 2020-01-08T07:27:59Z
+        scoredWindowSeconds: 18679
+  - - - '149'
+      - Marc-Andre Rathe
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3532
+        - 21240
+        scoredSeconds:
+        - 3532
+        - 21240
+        scoredTimes:
+        - 2020-01-08T03:05:38Z
+        - 2020-01-08T08:00:46Z
+        scoredWindowSeconds: 17708
+  - - - '135'
+      - Marcin Gil
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 5
+        - 10805
+        scoredSeconds:
+        - 150
+        - 22446
+        scoredTimes:
+        - 2020-01-08T02:20:12Z
+        - 2020-01-08T08:31:48Z
+        scoredWindowSeconds: 22296
+  - - - '156'
+      - Masayoshi Iwasaki
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 13827
+        scoredSeconds:
+        - 0
+        - 13827
+        scoredTimes:
+        - 2020-01-08T02:07:52Z
+        - 2020-01-08T05:58:19Z
+        scoredWindowSeconds: 13827
+  - - - '28'
+      - Mikhail Karmazin
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 13579
+        scoredSeconds:
+        - 0
+        - 21503
+        scoredTimes:
+        - 2020-01-08T02:12:54Z
+        - 2020-01-08T08:11:17Z
+        scoredWindowSeconds: 21503
+  - - - '7'
+      - Olav Opsanger
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 15830
+        scoredSeconds:
+        - 0
+        - 15830
+        scoredTimes:
+        - 2020-01-08T02:25:23Z
+        - 2020-01-08T06:49:13Z
+        scoredWindowSeconds: 15830
+  - - - '147'
+      - Oyvind Ellefsen
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 13161
+        scoredSeconds:
+        - 0
+        - 13161
+        scoredTimes:
+        - 2020-01-08T03:06:31Z
+        - 2020-01-08T06:45:52Z
+        scoredWindowSeconds: 13161
+  - - - '153'
+      - Pedro L. Garcia
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 15389
+        scoredSeconds:
+        - 0
+        - 15389
+        scoredTimes:
+        - 2020-01-08T02:45:20Z
+        - 2020-01-08T07:01:49Z
+        scoredWindowSeconds: 15389
+  - - - '14'
+      - Peter Burkitt
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 8052
+        scoredSeconds:
+        - 0
+        - 8052
+        scoredTimes:
+        - 2020-01-08T02:52:28Z
+        - 2020-01-08T05:06:40Z
+        scoredWindowSeconds: 8052
+  - - - '145'
+      - Philippe Michaud
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 17787
+        scoredSeconds:
+        - 0
+        - 17787
+        scoredTimes:
+        - 2020-01-08T02:55:11Z
+        - 2020-01-08T07:51:38Z
+        scoredWindowSeconds: 17787
+  - - - '128'
+      - Rich Reinauer
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 1962
+        - 19591
+        scoredSeconds:
+        - 1962
+        - 19591
+        scoredTimes:
+        - 2020-01-08T02:26:31Z
+        - 2020-01-08T07:20:20Z
+        scoredWindowSeconds: 17629
+  - - - '85'
+      - Rick Martin
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 15094
+        scoredSeconds:
+        - 0
+        - 15094
+        scoredTimes:
+        - 2020-01-08T03:30:57Z
+        - 2020-01-08T07:42:31Z
+        scoredWindowSeconds: 15094
+  - - - '42'
+      - Rob de Groot
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 18943
+        scoredSeconds:
+        - 0
+        - 18943
+        scoredTimes:
+        - 2020-01-08T02:08:44Z
+        - 2020-01-08T07:24:27Z
+        scoredWindowSeconds: 18943
+  - - - '22'
+      - Rohan Taylor
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 10328
+        scoredSeconds:
+        - 0
+        - 10328
+        scoredTimes:
+        - 2020-01-08T02:17:38Z
+        - 2020-01-08T05:09:46Z
+        scoredWindowSeconds: 10328
+  - - - '115'
+      - Roy Sadewo
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 92
+        - 6189
+        scoredSeconds:
+        - 11149
+        - 24891
+        scoredTimes:
+        - 2020-01-08T02:59:50Z
+        - 2020-01-08T06:48:52Z
+        scoredWindowSeconds: 13742
+  - - - '15'
+      - Ryosuke Hattori
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 16891
+        scoredSeconds:
+        - 0
+        - 16893
+        scoredTimes:
+        - 2020-01-08T03:14:06Z
+        - 2020-01-08T07:55:39Z
+        scoredWindowSeconds: 16893
+  - - - '142'
+      - Satoshi Nakamura
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 9583
+        scoredSeconds:
+        - 0
+        - 19127
+        scoredTimes:
+        - 2020-01-08T03:00:22Z
+        - 2020-01-08T08:19:09Z
+        scoredWindowSeconds: 19127
+  - - - '154'
+      - Steve Blackler
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 19741
+        scoredSeconds:
+        - 0
+        - 19741
+        scoredTimes:
+        - 2020-01-08T02:20:35Z
+        - 2020-01-08T07:49:36Z
+        scoredWindowSeconds: 19741
+  - - - '148'
+      - Thomas Mulder
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 17890
+        - 20377
+        scoredSeconds:
+        - 17890
+        - 20377
+        scoredTimes:
+        - 2020-01-08T07:59:12Z
+        - 2020-01-08T08:40:39Z
+        scoredWindowSeconds: 2487
+  - - - '31'
+      - Trent Brown
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3419
+        - 21692
+        scoredSeconds:
+        - 3419
+        - 21692
+        scoredTimes:
+        - 2020-01-08T02:49:51Z
+        - 2020-01-08T07:54:24Z
+        scoredWindowSeconds: 18273
+  - - - '143'
+      - Ulrich Schneider
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 858
+        - 11447
+        scoredSeconds:
+        - 858
+        - 11447
+        scoredTimes:
+        - 2020-01-08T04:00:58Z
+        - 2020-01-08T06:57:27Z
+        scoredWindowSeconds: 10589
+  - - - '74'
+      - Vic Hare
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 1412
+        - 18513
+        scoredSeconds:
+        - 1412
+        - 18513
+        scoredTimes:
+        - 2020-01-08T02:37:29Z
+        - 2020-01-08T07:22:30Z
+        scoredWindowSeconds: 17101
+  - - - '75'
+      - Yasuhiro Noma
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 16504
+        scoredSeconds:
+        - 0
+        - 16504
+        scoredTimes:
+        - 2020-01-08T02:24:17Z
+        - 2020-01-08T06:59:21Z
+        scoredWindowSeconds: 16504
+  - - - '139'
+      - Youngdon Lee
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 19089
+        scoredSeconds:
+        - 0
+        - 19089
+        scoredTimes:
+        - 2020-01-08T03:12:27Z
+        - 2020-01-08T08:30:36Z
+        scoredWindowSeconds: 19089
+- - - - '155'
+      - Abe Kemp
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 4068
+        scoredSeconds:
+        - 0
+        - 8423
+        scoredTimes:
+        - 2020-01-09T01:53:29Z
+        - 2020-01-09T04:13:52Z
+        scoredWindowSeconds: 8423
+  - - - '150'
+      - Alexey Labzin
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 8
+        - 4024
+        scoredSeconds:
+        - 240
+        - 16356
+        scoredTimes:
+        - 2020-01-09T02:57:30Z
+        - 2020-01-09T07:26:06Z
+        scoredWindowSeconds: 16116
+  - - - '152'
+      - Andrey Solomykin
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 22979
+        scoredSeconds:
+        - 0
+        - 22979
+        scoredTimes:
+        - 2020-01-09T02:01:06Z
+        - 2020-01-09T08:24:05Z
+        scoredWindowSeconds: 22979
+  - - - '92'
+      - Attila Bertok
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 16888
+        scoredSeconds:
+        - 0
+        - 16888
+        scoredTimes:
+        - 2020-01-09T02:19:39Z
+        - 2020-01-09T07:01:07Z
+        scoredWindowSeconds: 16888
+  - - - '77'
+      - Brodrick Osborne
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 20988
+        scoredSeconds:
+        - 0
+        - 20988
+        scoredTimes:
+        - 2020-01-09T02:25:30Z
+        - 2020-01-09T08:15:18Z
+        scoredWindowSeconds: 20988
+  - - - '151'
+      - Claudia Mejia
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 23852
+        scoredSeconds:
+        - 0
+        - 23852
+        scoredTimes:
+        - 2020-01-09T01:48:20Z
+        - 2020-01-09T08:25:52Z
+        scoredWindowSeconds: 23852
+  - - - '134'
+      - Dale Regehr
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 13868
+        scoredSeconds:
+        - 0
+        - 13868
+        scoredTimes:
+        - 2020-01-09T02:46:29Z
+        - 2020-01-09T06:37:37Z
+        scoredWindowSeconds: 13868
+  - - - '144'
+      - Enda Carrigan
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 21537
+        scoredSeconds:
+        - 0
+        - 21539
+        scoredTimes:
+        - 2020-01-09T02:32:30Z
+        - 2020-01-09T08:31:29Z
+        scoredWindowSeconds: 21539
+  - - - '138'
+      - Eungseng Kang
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 6959
+        scoredSeconds:
+        - 0
+        - 6959
+        scoredTimes:
+        - 2020-01-09T02:58:31Z
+        - 2020-01-09T04:54:30Z
+        scoredWindowSeconds: 6959
+  - - - '116'
+      - Filippo Oppici
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 17534
+        scoredSeconds:
+        - 0
+        - 17560
+        scoredTimes:
+        - 2020-01-09T02:12:26Z
+        - 2020-01-09T07:05:06Z
+        scoredWindowSeconds: 17560
+  - - - '120'
+      - Hiroshi Ono
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 1150
+        - 14545
+        scoredSeconds:
+        - 1150
+        - 14545
+        scoredTimes:
+        - 2020-01-09T02:45:11Z
+        - 2020-01-09T06:28:26Z
+        scoredWindowSeconds: 13395
+  - - - '104'
+      - Howard Jones
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 21527
+        scoredSeconds:
+        - 0
+        - 21527
+        scoredTimes:
+        - 2020-01-09T01:56:36Z
+        - 2020-01-09T07:55:23Z
+        scoredWindowSeconds: 21527
+  - - - '136'
+      - Jaeyong Hwang
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 722
+        - 17375
+        scoredSeconds:
+        - 722
+        - 17375
+        scoredTimes:
+        - 2020-01-09T03:15:31Z
+        - 2020-01-09T07:53:04Z
+        scoredWindowSeconds: 16653
+  - - - '146'
+      - Jonas Lobitz
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 1053
+        - 18617
+        scoredSeconds:
+        - 1053
+        - 18617
+        scoredTimes:
+        - 2020-01-09T02:09:53Z
+        - 2020-01-09T07:02:37Z
+        scoredWindowSeconds: 17564
+  - - - '43'
+      - Jonny Durand
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 17259
+        scoredSeconds:
+        - 0
+        - 17259
+        scoredTimes:
+        - 2020-01-09T02:15:59Z
+        - 2020-01-09T07:03:38Z
+        scoredWindowSeconds: 17259
+  - - - '62'
+      - Josh Woods
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 16644
+        scoredSeconds:
+        - 0
+        - 16644
+        scoredTimes:
+        - 2020-01-09T02:24:49Z
+        - 2020-01-09T07:02:13Z
+        scoredWindowSeconds: 16644
+  - - - '126'
+      - Konstantin Lukyanov
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 6
+        - 7828
+        scoredSeconds:
+        - 180
+        - 23800
+        scoredTimes:
+        - 2020-01-09T01:51:05Z
+        - 2020-01-09T08:24:45Z
+        scoredWindowSeconds: 23620
+  - - - '112'
+      - Lukas Bader
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 19474
+        scoredSeconds:
+        - 0
+        - 19474
+        scoredTimes:
+        - 2020-01-09T02:06:46Z
+        - 2020-01-09T07:31:20Z
+        scoredWindowSeconds: 19474
+  - - - '149'
+      - Marc-Andre Rathe
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 5483
+        - 24540
+        scoredSeconds:
+        - 5483
+        - 24540
+        scoredTimes:
+        - 2020-01-09T03:17:33Z
+        - 2020-01-09T08:35:10Z
+        scoredWindowSeconds: 19057
+  - - - '135'
+      - Marcin Gil
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 22616
+        scoredSeconds:
+        - 0
+        - 22616
+        scoredTimes:
+        - 2020-01-09T02:27:29Z
+        - 2020-01-09T08:44:25Z
+        scoredWindowSeconds: 22616
+  - - - '156'
+      - Masayoshi Iwasaki
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 20416
+        scoredSeconds:
+        - 0
+        - 20416
+        scoredTimes:
+        - 2020-01-09T01:48:55Z
+        - 2020-01-09T07:29:11Z
+        scoredWindowSeconds: 20416
+  - - - '28'
+      - Mikhail Karmazin
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 56
+        - 7153
+        scoredSeconds:
+        - 280
+        - 12460
+        scoredTimes:
+        - 2020-01-09T02:46:13Z
+        - 2020-01-09T06:09:13Z
+        scoredWindowSeconds: 12180
+  - - - '7'
+      - Olav Opsanger
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 18507
+        scoredSeconds:
+        - 0
+        - 18507
+        scoredTimes:
+        - 2020-01-09T02:18:31Z
+        - 2020-01-09T07:26:58Z
+        scoredWindowSeconds: 18507
+  - - - '147'
+      - Oyvind Ellefsen
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 18427
+        scoredSeconds:
+        - 0
+        - 18427
+        scoredTimes:
+        - 2020-01-09T02:32:50Z
+        - 2020-01-09T07:39:57Z
+        scoredWindowSeconds: 18427
+  - - - '153'
+      - Pedro L. Garcia
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2617
+        scoredSeconds:
+        - 0
+        - 2617
+        scoredTimes:
+        - 2020-01-09T02:21:24Z
+        - 2020-01-09T03:05:01Z
+        scoredWindowSeconds: 2617
+  - - - '14'
+      - Peter Burkitt
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '145'
+      - Philippe Michaud
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 16
+        - 18389
+        scoredSeconds:
+        - 16
+        - 18427
+        scoredTimes:
+        - 2020-01-09T01:58:42Z
+        - 2020-01-09T07:05:33Z
+        scoredWindowSeconds: 18411
+  - - - '128'
+      - Rich Reinauer
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 10156
+        scoredSeconds:
+        - 0
+        - 20180
+        scoredTimes:
+        - 2020-01-09T02:03:42Z
+        - 2020-01-09T07:40:02Z
+        scoredWindowSeconds: 20180
+  - - - '85'
+      - Rick Martin
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 18847
+        scoredSeconds:
+        - 0
+        - 18847
+        scoredTimes:
+        - 2020-01-09T02:50:13Z
+        - 2020-01-09T08:04:20Z
+        scoredWindowSeconds: 18847
+  - - - '42'
+      - Rob de Groot
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 18286
+        scoredSeconds:
+        - 0
+        - 18286
+        scoredTimes:
+        - 2020-01-09T02:40:31Z
+        - 2020-01-09T07:45:17Z
+        scoredWindowSeconds: 18286
+  - - - '22'
+      - Rohan Taylor
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 111
+        - 19109
+        scoredSeconds:
+        - 111
+        - 19109
+        scoredTimes:
+        - 2020-01-09T01:45:07Z
+        - 2020-01-09T07:01:45Z
+        scoredWindowSeconds: 18998
+  - - - '115'
+      - Roy Sadewo
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 14046
+        - 17016
+        scoredSeconds:
+        - 14046
+        - 17016
+        scoredTimes:
+        - 2020-01-09T06:54:33Z
+        - 2020-01-09T07:44:03Z
+        scoredWindowSeconds: 2970
+  - - - '15'
+      - Ryosuke Hattori
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 6888
+        scoredSeconds:
+        - 6
+        - 20749
+        scoredTimes:
+        - 2020-01-09T02:37:44Z
+        - 2020-01-09T08:23:27Z
+        scoredWindowSeconds: 20743
+  - - - '142'
+      - Satoshi Nakamura
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 10555
+        scoredSeconds:
+        - 0
+        - 21445
+        scoredTimes:
+        - 2020-01-09T02:18:54Z
+        - 2020-01-09T08:16:19Z
+        scoredWindowSeconds: 21445
+  - - - '154'
+      - Steve Blackler
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 19074
+        scoredSeconds:
+        - 0
+        - 19074
+        scoredTimes:
+        - 2020-01-09T01:59:20Z
+        - 2020-01-09T07:17:14Z
+        scoredWindowSeconds: 19074
+  - - - '148'
+      - Thomas Mulder
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 16354
+        scoredSeconds:
+        - 0
+        - 16354
+        scoredTimes:
+        - 2020-01-09T01:51:24Z
+        - 2020-01-09T06:23:58Z
+        scoredWindowSeconds: 16354
+  - - - '31'
+      - Trent Brown
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 17894
+        scoredSeconds:
+        - 0
+        - 17894
+        scoredTimes:
+        - 2020-01-09T02:07:27Z
+        - 2020-01-09T07:05:41Z
+        scoredWindowSeconds: 17894
+  - - - '143'
+      - Ulrich Schneider
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 7205
+        scoredSeconds:
+        - 0
+        - 7205
+        scoredTimes:
+        - 2020-01-09T02:53:55Z
+        - 2020-01-09T04:54:00Z
+        scoredWindowSeconds: 7205
+  - - - '74'
+      - Vic Hare
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 21539
+        scoredSeconds:
+        - 0
+        - 21539
+        scoredTimes:
+        - 2020-01-09T02:13:01Z
+        - 2020-01-09T08:12:00Z
+        scoredWindowSeconds: 21539
+  - - - '75'
+      - Yasuhiro Noma
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 24379
+        scoredSeconds:
+        - 0
+        - 24379
+        scoredTimes:
+        - 2020-01-09T02:04:17Z
+        - 2020-01-09T08:50:36Z
+        scoredWindowSeconds: 24379
+  - - - '139'
+      - Youngdon Lee
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 18719
+        scoredSeconds:
+        - 0
+        - 18719
+        scoredTimes:
+        - 2020-01-09T02:44:42Z
+        - 2020-01-09T07:56:41Z
+        scoredWindowSeconds: 18719
+- - - - '155'
+      - Abe Kemp
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 9171
+        scoredSeconds:
+        - 0
+        - 9171
+        scoredTimes:
+        - 2020-01-11T02:49:32Z
+        - 2020-01-11T05:22:23Z
+        scoredWindowSeconds: 9171
+  - - - '150'
+      - Alexey Labzin
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 7510
+        scoredSeconds:
+        - 0
+        - 7510
+        scoredTimes:
+        - 2020-01-11T03:43:19Z
+        - 2020-01-11T05:48:29Z
+        scoredWindowSeconds: 7510
+  - - - '152'
+      - Andrey Solomykin
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 9766
+        scoredSeconds:
+        - 0
+        - 9766
+        scoredTimes:
+        - 2020-01-11T02:55:16Z
+        - 2020-01-11T05:38:02Z
+        scoredWindowSeconds: 9766
+  - - - '92'
+      - Attila Bertok
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 8248
+        scoredSeconds:
+        - 0
+        - 8248
+        scoredTimes:
+        - 2020-01-11T03:16:36Z
+        - 2020-01-11T05:34:04Z
+        scoredWindowSeconds: 8248
+  - - - '77'
+      - Brodrick Osborne
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2856
+        scoredSeconds:
+        - 0
+        - 2856
+        scoredTimes:
+        - 2020-01-11T03:24:47Z
+        - 2020-01-11T04:12:23Z
+        scoredWindowSeconds: 2856
+  - - - '151'
+      - Claudia Mejia
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 633
+        scoredSeconds:
+        - 0
+        - 633
+        scoredTimes:
+        - 2020-01-11T04:26:58Z
+        - 2020-01-11T04:37:31Z
+        scoredWindowSeconds: 633
+  - - - '134'
+      - Dale Regehr
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 10456
+        scoredSeconds:
+        - 0
+        - 10887
+        scoredTimes:
+        - 2020-01-11T02:48:14Z
+        - 2020-01-11T05:49:41Z
+        scoredWindowSeconds: 10887
+  - - - '144'
+      - Enda Carrigan
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2017
+        - 3504
+        scoredSeconds:
+        - 2017
+        - 3504
+        scoredTimes:
+        - 2020-01-11T03:29:15Z
+        - 2020-01-11T03:54:02Z
+        scoredWindowSeconds: 1487
+  - - - '138'
+      - Eungseng Kang
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 4415
+        scoredSeconds:
+        - 0
+        - 4415
+        scoredTimes:
+        - 2020-01-11T03:55:45Z
+        - 2020-01-11T05:09:20Z
+        scoredWindowSeconds: 4415
+  - - - '116'
+      - Filippo Oppici
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 116
+        - 6483
+        scoredSeconds:
+        - 116
+        - 6483
+        scoredTimes:
+        - 2020-01-11T04:02:06Z
+        - 2020-01-11T05:48:13Z
+        scoredWindowSeconds: 6367
+  - - - '120'
+      - Hiroshi Ono
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 7380
+        scoredSeconds:
+        - 0
+        - 7380
+        scoredTimes:
+        - 2020-01-11T03:45:01Z
+        - 2020-01-11T05:48:01Z
+        scoredWindowSeconds: 7380
+  - - - '104'
+      - Howard Jones
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 7470
+        scoredSeconds:
+        - 0
+        - 7470
+        scoredTimes:
+        - 2020-01-11T02:56:50Z
+        - 2020-01-11T05:01:20Z
+        scoredWindowSeconds: 7470
+  - - - '136'
+      - Jaeyong Hwang
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 8219
+        scoredSeconds:
+        - 0
+        - 8219
+        scoredTimes:
+        - 2020-01-11T03:57:19Z
+        - 2020-01-11T06:14:18Z
+        scoredWindowSeconds: 8219
+  - - - '146'
+      - Jonas Lobitz
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 9057
+        scoredSeconds:
+        - 0
+        - 9057
+        scoredTimes:
+        - 2020-01-11T03:03:36Z
+        - 2020-01-11T05:34:33Z
+        scoredWindowSeconds: 9057
+  - - - '43'
+      - Jonny Durand
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 7722
+        scoredSeconds:
+        - 0
+        - 7722
+        scoredTimes:
+        - 2020-01-11T03:11:31Z
+        - 2020-01-11T05:20:13Z
+        scoredWindowSeconds: 7722
+  - - - '62'
+      - Josh Woods
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '126'
+      - Konstantin Lukyanov
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 2711
+        scoredSeconds:
+        - 270
+        - 7825
+        scoredTimes:
+        - 2020-01-11T03:30:00Z
+        - 2020-01-11T05:35:55Z
+        scoredWindowSeconds: 7555
+  - - - '112'
+      - Lukas Bader
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 1008
+        - 7203
+        scoredSeconds:
+        - 1008
+        - 7203
+        scoredTimes:
+        - 2020-01-11T03:04:28Z
+        - 2020-01-11T04:47:43Z
+        scoredWindowSeconds: 6195
+  - - - '149'
+      - Marc-Andre Rathe
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3932
+        - 12077
+        scoredSeconds:
+        - 3932
+        - 12077
+        scoredTimes:
+        - 2020-01-11T03:23:54Z
+        - 2020-01-11T05:39:39Z
+        scoredWindowSeconds: 8145
+  - - - '135'
+      - Marcin Gil
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 5505
+        scoredSeconds:
+        - 0
+        - 10679
+        scoredTimes:
+        - 2020-01-11T03:26:17Z
+        - 2020-01-11T06:24:16Z
+        scoredWindowSeconds: 10679
+  - - - '156'
+      - Masayoshi Iwasaki
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 5986
+        scoredSeconds:
+        - 0
+        - 5986
+        scoredTimes:
+        - 2020-01-11T03:49:36Z
+        - 2020-01-11T05:29:22Z
+        scoredWindowSeconds: 5986
+  - - - '28'
+      - Mikhail Karmazin
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 4293
+        - 8718
+        scoredSeconds:
+        - 4293
+        - 8718
+        scoredTimes:
+        - 2020-01-11T03:58:54Z
+        - 2020-01-11T05:12:39Z
+        scoredWindowSeconds: 4425
+  - - - '7'
+      - Olav Opsanger
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 8323
+        scoredSeconds:
+        - 0
+        - 8323
+        scoredTimes:
+        - 2020-01-11T03:16:06Z
+        - 2020-01-11T05:34:49Z
+        scoredWindowSeconds: 8323
+  - - - '147'
+      - Oyvind Ellefsen
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 716
+        - 6470
+        scoredSeconds:
+        - 716
+        - 6470
+        scoredTimes:
+        - 2020-01-11T04:05:49Z
+        - 2020-01-11T05:41:43Z
+        scoredWindowSeconds: 5754
+  - - - '153'
+      - Pedro L. Garcia
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1872
+        scoredSeconds:
+        - 0
+        - 1872
+        scoredTimes:
+        - 2020-01-11T02:54:42Z
+        - 2020-01-11T03:25:54Z
+        scoredWindowSeconds: 1872
+  - - - '14'
+      - Peter Burkitt
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 6210
+        scoredSeconds:
+        - 0
+        - 6210
+        scoredTimes:
+        - 2020-01-11T03:50:46Z
+        - 2020-01-11T05:34:16Z
+        scoredWindowSeconds: 6210
+  - - - '145'
+      - Philippe Michaud
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 18
+        - 9391
+        scoredSeconds:
+        - 18
+        - 9391
+        scoredTimes:
+        - 2020-01-11T03:00:17Z
+        - 2020-01-11T05:36:30Z
+        scoredWindowSeconds: 9373
+  - - - '128'
+      - Rich Reinauer
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 4166
+        scoredSeconds:
+        - 0
+        - 8067
+        scoredTimes:
+        - 2020-01-11T03:22:58Z
+        - 2020-01-11T05:37:25Z
+        scoredWindowSeconds: 8067
+  - - - '85'
+      - Rick Martin
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 7541
+        scoredSeconds:
+        - 0
+        - 7541
+        scoredTimes:
+        - 2020-01-11T03:36:21Z
+        - 2020-01-11T05:42:02Z
+        scoredWindowSeconds: 7541
+  - - - '42'
+      - Rob de Groot
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 11370
+        - 15151
+        scoredSeconds:
+        - 11370
+        - 15151
+        scoredTimes:
+        - 2020-01-11T06:33:04Z
+        - 2020-01-11T07:36:05Z
+        scoredWindowSeconds: 3781
+  - - - '22'
+      - Rohan Taylor
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 7925
+        scoredSeconds:
+        - 0
+        - 7925
+        scoredTimes:
+        - 2020-01-11T03:17:45Z
+        - 2020-01-11T05:29:50Z
+        scoredWindowSeconds: 7925
+  - - - '115'
+      - Roy Sadewo
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '15'
+      - Ryosuke Hattori
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 6637
+        scoredSeconds:
+        - 0
+        - 6637
+        scoredTimes:
+        - 2020-01-11T03:42:41Z
+        - 2020-01-11T05:33:18Z
+        scoredWindowSeconds: 6637
+  - - - '142'
+      - Satoshi Nakamura
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 9314
+        scoredSeconds:
+        - 0
+        - 9314
+        scoredTimes:
+        - 2020-01-11T03:31:30Z
+        - 2020-01-11T06:06:44Z
+        scoredWindowSeconds: 9314
+  - - - '154'
+      - Steve Blackler
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 7591
+        scoredSeconds:
+        - 0
+        - 7591
+        scoredTimes:
+        - 2020-01-11T03:10:50Z
+        - 2020-01-11T05:17:21Z
+        scoredWindowSeconds: 7591
+  - - - '148'
+      - Thomas Mulder
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3738
+        - 8764
+        scoredSeconds:
+        - 3738
+        - 8764
+        scoredTimes:
+        - 2020-01-11T03:51:20Z
+        - 2020-01-11T05:15:06Z
+        scoredWindowSeconds: 5026
+  - - - '31'
+      - Trent Brown
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 8641
+        scoredSeconds:
+        - 0
+        - 8641
+        scoredTimes:
+        - 2020-01-11T03:09:54Z
+        - 2020-01-11T05:33:55Z
+        scoredWindowSeconds: 8641
+  - - - '143'
+      - Ulrich Schneider
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 10916
+        - 15272
+        scoredSeconds:
+        - 10916
+        - 15272
+        scoredTimes:
+        - 2020-01-11T06:55:05Z
+        - 2020-01-11T08:07:41Z
+        scoredWindowSeconds: 4356
+  - - - '74'
+      - Vic Hare
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
+  - - - '75'
+      - Yasuhiro Noma
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 9254
+        scoredSeconds:
+        - 0
+        - 9254
+        scoredTimes:
+        - 2020-01-11T02:56:22Z
+        - 2020-01-11T05:30:36Z
+        scoredWindowSeconds: 9254
+  - - - '139'
+      - Youngdon Lee
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 487
+        - 5690
+        scoredSeconds:
+        - 487
+        - 5690
+        scoredTimes:
+        - 2020-01-11T03:55:51Z
+        - 2020-01-11T05:22:34Z
+        scoredWindowSeconds: 5203
+timing:
+- zonesSum:
+  - 0
+  - 0
+  - 0
+  zonesFirst:
+  - null
+  - null
+  - null
+  zonesLast:
+  - null
+  - null
+  - null
+  zonesRankTime:
+  - []
+  - []
+  - []
+  zonesRankPilot:
+  - []
+  - []
+  - []
+  lastLanding: 2020-01-07T09:05:37Z
+- zonesSum:
+  - 0
+  - 0
+  - 1
+  - 0
+  - 0
+  zonesFirst:
+  - null
+  - null
+  - 2020-01-08T06:38:16.067032753472Z
+  - null
+  - null
+  zonesLast:
+  - null
+  - null
+  - 2020-01-08T06:38:16.067032753472Z
+  - null
+  - null
+  zonesRankTime:
+  - []
+  - []
+  - - 2020-01-08T06:38:16.067032753472Z
+  - []
+  - []
+  zonesRankPilot:
+  - []
+  - []
+  - - - '155'
+      - Abe Kemp
+  - []
+  - []
+  lastLanding: 2020-01-08T08:40:39Z
+- zonesSum:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  zonesFirst:
+  - null
+  - null
+  - null
+  - null
+  - null
+  zonesLast:
+  - null
+  - null
+  - null
+  - null
+  - null
+  zonesRankTime:
+  - []
+  - []
+  - []
+  - []
+  - []
+  zonesRankPilot:
+  - []
+  - []
+  - []
+  - []
+  - []
+  lastLanding: 2020-01-09T08:50:36Z
+- zonesSum:
+  - 0
+  - 2
+  - 1
+  zonesFirst:
+  - null
+  - 2020-01-11T04:10:50.845260653424Z
+  - 2020-01-11T05:32:33.505787722236Z
+  zonesLast:
+  - null
+  - 2020-01-11T04:27:45.112946084352Z
+  - 2020-01-11T05:32:33.505787722236Z
+  zonesRankTime:
+  - []
+  - - 2020-01-11T04:10:50.845260653424Z
+    - 2020-01-11T04:27:45.112946084352Z
+  - - 2020-01-11T05:32:33.505787722236Z
+  zonesRankPilot:
+  - []
+  - - - '152'
+      - Andrey Solomykin
+    - - '148'
+      - Thomas Mulder
+  - - - '92'
+      - Attila Bertok
+  lastLanding: 2020-01-11T08:07:41Z
+tagging:
+- - - - '155'
+      - Abe Kemp
+    - null
+  - - - '150'
+      - Alexey Labzin
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '152'
+      - Andrey Solomykin
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '92'
+      - Attila Bertok
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '77'
+      - Brodrick Osborne
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '151'
+      - Claudia Mejia
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '134'
+      - Dale Regehr
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '144'
+      - Enda Carrigan
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '138'
+      - Eungseng Kang
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '116'
+      - Filippo Oppici
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '120'
+      - Hiroshi Ono
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '104'
+      - Howard Jones
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '136'
+      - Jaeyong Hwang
+    - null
+  - - - '146'
+      - Jonas Lobitz
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '43'
+      - Jonny Durand
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '62'
+      - Josh Woods
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '126'
+      - Konstantin Lukyanov
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '112'
+      - Lukas Bader
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '149'
+      - Marc-Andre Rathe
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '135'
+      - Marcin Gil
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '156'
+      - Masayoshi Iwasaki
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '28'
+      - Mikhail Karmazin
+    - null
+  - - - '7'
+      - Olav Opsanger
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '147'
+      - Oyvind Ellefsen
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '153'
+      - Pedro L. Garcia
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '14'
+      - Peter Burkitt
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '145'
+      - Philippe Michaud
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '128'
+      - Rich Reinauer
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '85'
+      - Rick Martin
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '42'
+      - Rob de Groot
+    - null
+  - - - '22'
+      - Rohan Taylor
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '115'
+      - Roy Sadewo
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '15'
+      - Ryosuke Hattori
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '142'
+      - Satoshi Nakamura
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '154'
+      - Steve Blackler
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '148'
+      - Thomas Mulder
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '31'
+      - Trent Brown
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '143'
+      - Ulrich Schneider
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '74'
+      - Vic Hare
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '75'
+      - Yasuhiro Noma
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '139'
+      - Youngdon Lee
+    - zonesTag:
+      - null
+      - null
+      - null
+- - - - '155'
+      - Abe Kemp
+    - zonesTag:
+      - null
+      - null
+      - inter:
+          fixFrac: 4777.033516376736
+          time: 2020-01-08T06:38:16.067032753472Z
+          lat: -33.85373
+          lng: 147.94195
+          alt: 1177
+        cross:
+          crossingPair:
+          - fix: 4763
+            time: 2020-01-08T06:37:48Z
+            lat: -33.85115
+            lng: 147.93863333
+            alt: 1177
+          - fix: 4764
+            time: 2020-01-08T06:37:50Z
+            lat: -33.85135
+            lng: 147.93885
+            alt: 1177
+          inZone:
+          - false
+          - true
+      - null
+      - null
+  - - - '150'
+      - Alexey Labzin
+    - null
+  - - - '152'
+      - Andrey Solomykin
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '92'
+      - Attila Bertok
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '77'
+      - Brodrick Osborne
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '151'
+      - Claudia Mejia
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '134'
+      - Dale Regehr
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '144'
+      - Enda Carrigan
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '138'
+      - Eungseng Kang
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '116'
+      - Filippo Oppici
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '120'
+      - Hiroshi Ono
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '104'
+      - Howard Jones
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '136'
+      - Jaeyong Hwang
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '146'
+      - Jonas Lobitz
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '43'
+      - Jonny Durand
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '62'
+      - Josh Woods
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '126'
+      - Konstantin Lukyanov
+    - null
+  - - - '112'
+      - Lukas Bader
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '149'
+      - Marc-Andre Rathe
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '135'
+      - Marcin Gil
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '156'
+      - Masayoshi Iwasaki
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '28'
+      - Mikhail Karmazin
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '7'
+      - Olav Opsanger
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '147'
+      - Oyvind Ellefsen
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '153'
+      - Pedro L. Garcia
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '14'
+      - Peter Burkitt
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '145'
+      - Philippe Michaud
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '128'
+      - Rich Reinauer
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '85'
+      - Rick Martin
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '42'
+      - Rob de Groot
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '22'
+      - Rohan Taylor
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '115'
+      - Roy Sadewo
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '15'
+      - Ryosuke Hattori
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '142'
+      - Satoshi Nakamura
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '154'
+      - Steve Blackler
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '148'
+      - Thomas Mulder
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '31'
+      - Trent Brown
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '143'
+      - Ulrich Schneider
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '74'
+      - Vic Hare
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '75'
+      - Yasuhiro Noma
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '139'
+      - Youngdon Lee
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+- - - - '155'
+      - Abe Kemp
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '150'
+      - Alexey Labzin
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '152'
+      - Andrey Solomykin
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '92'
+      - Attila Bertok
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '77'
+      - Brodrick Osborne
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '151'
+      - Claudia Mejia
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '134'
+      - Dale Regehr
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '144'
+      - Enda Carrigan
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '138'
+      - Eungseng Kang
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '116'
+      - Filippo Oppici
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '120'
+      - Hiroshi Ono
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '104'
+      - Howard Jones
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '136'
+      - Jaeyong Hwang
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '146'
+      - Jonas Lobitz
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '43'
+      - Jonny Durand
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '62'
+      - Josh Woods
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '126'
+      - Konstantin Lukyanov
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '112'
+      - Lukas Bader
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '149'
+      - Marc-Andre Rathe
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '135'
+      - Marcin Gil
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '156'
+      - Masayoshi Iwasaki
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '28'
+      - Mikhail Karmazin
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '7'
+      - Olav Opsanger
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '147'
+      - Oyvind Ellefsen
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '153'
+      - Pedro L. Garcia
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '14'
+      - Peter Burkitt
+    - null
+  - - - '145'
+      - Philippe Michaud
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '128'
+      - Rich Reinauer
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '85'
+      - Rick Martin
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '42'
+      - Rob de Groot
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '22'
+      - Rohan Taylor
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '115'
+      - Roy Sadewo
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '15'
+      - Ryosuke Hattori
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '142'
+      - Satoshi Nakamura
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '154'
+      - Steve Blackler
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '148'
+      - Thomas Mulder
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '31'
+      - Trent Brown
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '143'
+      - Ulrich Schneider
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '74'
+      - Vic Hare
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '75'
+      - Yasuhiro Noma
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '139'
+      - Youngdon Lee
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+- - - - '155'
+      - Abe Kemp
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '150'
+      - Alexey Labzin
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '152'
+      - Andrey Solomykin
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 4534.845260653424
+          time: 2020-01-11T04:10:50.845260653424Z
+          lat: -33.35695
+          lng: 147.93333
+          alt: 2325.69
+        cross:
+          crossingPair:
+          - fix: 3999
+            time: 2020-01-11T04:01:55Z
+            lat: -33.26805
+            lng: 147.95388333
+            alt: 1254
+          - fix: 4000
+            time: 2020-01-11T04:01:56Z
+            lat: -33.26788333
+            lng: 147.95391667
+            alt: 1256
+          inZone:
+          - true
+          - false
+      - null
+  - - - '92'
+      - Attila Bertok
+    - zonesTag:
+      - null
+      - null
+      - inter:
+          fixFrac: 8157.505787722237
+          time: 2020-01-11T05:32:33.505787722236Z
+          lat: -32.56608
+          lng: 148.22657
+          alt: 232.48
+        cross:
+          crossingPair:
+          - fix: 8050
+            time: 2020-01-11T05:30:46Z
+            lat: -32.60076667
+            lng: 148.21388333
+            alt: 555
+          - fix: 8051
+            time: 2020-01-11T05:30:47Z
+            lat: -32.60046667
+            lng: 148.21406667
+            alt: 552
+          inZone:
+          - false
+          - true
+  - - - '77'
+      - Brodrick Osborne
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '151'
+      - Claudia Mejia
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '134'
+      - Dale Regehr
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '144'
+      - Enda Carrigan
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '138'
+      - Eungseng Kang
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '116'
+      - Filippo Oppici
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '120'
+      - Hiroshi Ono
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '104'
+      - Howard Jones
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '136'
+      - Jaeyong Hwang
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '146'
+      - Jonas Lobitz
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '43'
+      - Jonny Durand
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '62'
+      - Josh Woods
+    - null
+  - - - '126'
+      - Konstantin Lukyanov
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '112'
+      - Lukas Bader
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '149'
+      - Marc-Andre Rathe
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '135'
+      - Marcin Gil
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '156'
+      - Masayoshi Iwasaki
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '28'
+      - Mikhail Karmazin
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '7'
+      - Olav Opsanger
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '147'
+      - Oyvind Ellefsen
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '153'
+      - Pedro L. Garcia
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '14'
+      - Peter Burkitt
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '145'
+      - Philippe Michaud
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '128'
+      - Rich Reinauer
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '85'
+      - Rick Martin
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '42'
+      - Rob de Groot
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '22'
+      - Rohan Taylor
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '115'
+      - Roy Sadewo
+    - null
+  - - - '15'
+      - Ryosuke Hattori
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '142'
+      - Satoshi Nakamura
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '154'
+      - Steve Blackler
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '148'
+      - Thomas Mulder
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 5923.112946084352
+          time: 2020-01-11T04:27:45.112946084352Z
+          lat: -33.35695
+          lng: 147.93333
+          alt: 1395.11
+        cross:
+          crossingPair:
+          - fix: 5488
+            time: 2020-01-11T04:20:30Z
+            lat: -33.27105
+            lng: 147.96706667
+            alt: 960
+          - fix: 5489
+            time: 2020-01-11T04:20:31Z
+            lat: -33.27086667
+            lng: 147.96718333
+            alt: 961
+          inZone:
+          - true
+          - false
+      - null
+  - - - '31'
+      - Trent Brown
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '143'
+      - Ulrich Schneider
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '74'
+      - Vic Hare
+    - null
+  - - - '75'
+      - Yasuhiro Noma
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '139'
+      - Youngdon Lee
+    - zonesTag:
+      - null
+      - null
+      - null

@@ -1,0 +1,14 @@
+pilotsAtEss:
+- 0
+- 0
+- 0
+- 1
+arrivalRank:
+- []
+- []
+- []
+- - - - '62'
+      - Josh Woods
+    - lag: 0.000000 h
+      rank: '1'
+      frac: 0

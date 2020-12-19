@@ -1,0 +1,499 @@
+ssBestTime:
+- null
+- null
+- null
+- 1.232778 h
+gsBestTime:
+- null
+- null
+- null
+- 1.235833 h
+taskDistance:
+- 166.593557 km
+- 144.606544 km
+- 156.513619 km
+- 87.697911 km
+taskSpeedDistance:
+- 156.993557 km
+- 135.006544 km
+- 146.913619 km
+- 78.097911 km
+ssSpeed:
+- []
+- []
+- []
+- - - - '62'
+      - Josh Woods
+    - time: 1.232778 h
+      frac: 1
+gsSpeed:
+- []
+- []
+- []
+- - - - '62'
+      - Josh Woods
+    - time: 1.235833 h
+      frac: 1
+altStopped:
+- - - - '150'
+      - Alexey Labzin
+    - 259.000 m
+  - - - '152'
+      - Andrey Solomykin
+    - 288.000 m
+  - - - '92'
+      - Attila Bertok
+    - 349.000 m
+  - - - '77'
+      - Brodrick Osborne
+    - 298.000 m
+  - - - '151'
+      - Claudia Mejia
+    - 300.000 m
+  - - - '134'
+      - Dale Regehr
+    - 305.000 m
+  - - - '144'
+      - Enda Carrigan
+    - 284.000 m
+  - - - '138'
+      - Eungseng Kang
+    - 277.000 m
+  - - - '116'
+      - Filippo Oppici
+    - 259.000 m
+  - - - '120'
+      - Hiroshi Ono
+    - 267.000 m
+  - - - '104'
+      - Howard Jones
+    - 254.000 m
+  - - - '146'
+      - Jonas Lobitz
+    - 270.000 m
+  - - - '43'
+      - Jonny Durand
+    - 262.000 m
+  - - - '62'
+      - Josh Woods
+    - 267.000 m
+  - - - '126'
+      - Konstantin Lukyanov
+    - 277.000 m
+  - - - '112'
+      - Lukas Bader
+    - 21702.000 m
+  - - - '149'
+      - Marc-Andre Rathe
+    - 280.000 m
+  - - - '135'
+      - Marcin Gil
+    - 345.000 m
+  - - - '156'
+      - Masayoshi Iwasaki
+    - 277.000 m
+  - - - '7'
+      - Olav Opsanger
+    - 257.000 m
+  - - - '147'
+      - Oyvind Ellefsen
+    - 285.000 m
+  - - - '153'
+      - Pedro L. Garcia
+    - 284.000 m
+  - - - '14'
+      - Peter Burkitt
+    - 276.000 m
+  - - - '145'
+      - Philippe Michaud
+    - 280.000 m
+  - - - '128'
+      - Rich Reinauer
+    - 322.000 m
+  - - - '85'
+      - Rick Martin
+    - 280.000 m
+  - - - '22'
+      - Rohan Taylor
+    - 258.000 m
+  - - - '115'
+      - Roy Sadewo
+    - 262.000 m
+  - - - '15'
+      - Ryosuke Hattori
+    - 282.000 m
+  - - - '142'
+      - Satoshi Nakamura
+    - 940.000 m
+  - - - '154'
+      - Steve Blackler
+    - 283.000 m
+  - - - '148'
+      - Thomas Mulder
+    - 274.000 m
+  - - - '31'
+      - Trent Brown
+    - 288.000 m
+  - - - '143'
+      - Ulrich Schneider
+    - 259.000 m
+  - - - '74'
+      - Vic Hare
+    - 480.000 m
+  - - - '75'
+      - Yasuhiro Noma
+    - 290.000 m
+  - - - '139'
+      - Youngdon Lee
+    - 267.000 m
+- - - - '155'
+      - Abe Kemp
+    - 295.000 m
+  - - - '152'
+      - Andrey Solomykin
+    - 321.000 m
+  - - - '92'
+      - Attila Bertok
+    - 307.000 m
+  - - - '77'
+      - Brodrick Osborne
+    - 308.000 m
+  - - - '151'
+      - Claudia Mejia
+    - 293.000 m
+  - - - '134'
+      - Dale Regehr
+    - 320.000 m
+  - - - '144'
+      - Enda Carrigan
+    - 289.000 m
+  - - - '138'
+      - Eungseng Kang
+    - 283.000 m
+  - - - '116'
+      - Filippo Oppici
+    - 307.000 m
+  - - - '120'
+      - Hiroshi Ono
+    - 272.000 m
+  - - - '104'
+      - Howard Jones
+    - 298.000 m
+  - - - '136'
+      - Jaeyong Hwang
+    - 280.000 m
+  - - - '146'
+      - Jonas Lobitz
+    - 309.000 m
+  - - - '43'
+      - Jonny Durand
+    - 303.000 m
+  - - - '62'
+      - Josh Woods
+    - 288.000 m
+  - - - '112'
+      - Lukas Bader
+    - 302.000 m
+  - - - '149'
+      - Marc-Andre Rathe
+    - 308.000 m
+  - - - '135'
+      - Marcin Gil
+    - 301.000 m
+  - - - '156'
+      - Masayoshi Iwasaki
+    - 324.000 m
+  - - - '28'
+      - Mikhail Karmazin
+    - 327.000 m
+  - - - '7'
+      - Olav Opsanger
+    - 0.000 m
+  - - - '147'
+      - Oyvind Ellefsen
+    - 329.000 m
+  - - - '153'
+      - Pedro L. Garcia
+    - 314.000 m
+  - - - '14'
+      - Peter Burkitt
+    - 293.000 m
+  - - - '145'
+      - Philippe Michaud
+    - 303.000 m
+  - - - '128'
+      - Rich Reinauer
+    - 325.000 m
+  - - - '85'
+      - Rick Martin
+    - 470.000 m
+  - - - '42'
+      - Rob de Groot
+    - 310.000 m
+  - - - '22'
+      - Rohan Taylor
+    - 287.000 m
+  - - - '115'
+      - Roy Sadewo
+    - 0.000 m
+  - - - '15'
+      - Ryosuke Hattori
+    - 304.000 m
+  - - - '142'
+      - Satoshi Nakamura
+    - 325.000 m
+  - - - '154'
+      - Steve Blackler
+    - 300.000 m
+  - - - '148'
+      - Thomas Mulder
+    - 262.000 m
+  - - - '31'
+      - Trent Brown
+    - 310.000 m
+  - - - '143'
+      - Ulrich Schneider
+    - 289.000 m
+  - - - '74'
+      - Vic Hare
+    - 305.000 m
+  - - - '75'
+      - Yasuhiro Noma
+    - 308.000 m
+  - - - '139'
+      - Youngdon Lee
+    - 275.000 m
+- - - - '155'
+      - Abe Kemp
+    - 283.000 m
+  - - - '150'
+      - Alexey Labzin
+    - 362.000 m
+  - - - '152'
+      - Andrey Solomykin
+    - 310.000 m
+  - - - '92'
+      - Attila Bertok
+    - 267.000 m
+  - - - '77'
+      - Brodrick Osborne
+    - 277.000 m
+  - - - '151'
+      - Claudia Mejia
+    - 281.000 m
+  - - - '134'
+      - Dale Regehr
+    - 360.000 m
+  - - - '144'
+      - Enda Carrigan
+    - 333.000 m
+  - - - '138'
+      - Eungseng Kang
+    - 323.000 m
+  - - - '116'
+      - Filippo Oppici
+    - 270.000 m
+  - - - '120'
+      - Hiroshi Ono
+    - 389.000 m
+  - - - '104'
+      - Howard Jones
+    - 274.000 m
+  - - - '136'
+      - Jaeyong Hwang
+    - 349.000 m
+  - - - '146'
+      - Jonas Lobitz
+    - 271.000 m
+  - - - '43'
+      - Jonny Durand
+    - 263.000 m
+  - - - '62'
+      - Josh Woods
+    - 255.000 m
+  - - - '126'
+      - Konstantin Lukyanov
+    - 346.000 m
+  - - - '112'
+      - Lukas Bader
+    - 263.000 m
+  - - - '149'
+      - Marc-Andre Rathe
+    - 330.000 m
+  - - - '135'
+      - Marcin Gil
+    - 371.000 m
+  - - - '156'
+      - Masayoshi Iwasaki
+    - 407.000 m
+  - - - '28'
+      - Mikhail Karmazin
+    - 339.000 m
+  - - - '7'
+      - Olav Opsanger
+    - 262.000 m
+  - - - '147'
+      - Oyvind Ellefsen
+    - 278.000 m
+  - - - '153'
+      - Pedro L. Garcia
+    - 252.000 m
+  - - - '145'
+      - Philippe Michaud
+    - 0.000 m
+  - - - '128'
+      - Rich Reinauer
+    - 290.000 m
+  - - - '85'
+      - Rick Martin
+    - 289.000 m
+  - - - '42'
+      - Rob de Groot
+    - 288.000 m
+  - - - '22'
+      - Rohan Taylor
+    - 273.000 m
+  - - - '115'
+      - Roy Sadewo
+    - 283.000 m
+  - - - '15'
+      - Ryosuke Hattori
+    - 336.000 m
+  - - - '142'
+      - Satoshi Nakamura
+    - 339.000 m
+  - - - '154'
+      - Steve Blackler
+    - 282.000 m
+  - - - '148'
+      - Thomas Mulder
+    - 306.000 m
+  - - - '31'
+      - Trent Brown
+    - 273.000 m
+  - - - '143'
+      - Ulrich Schneider
+    - 349.000 m
+  - - - '74'
+      - Vic Hare
+    - 261.000 m
+  - - - '75'
+      - Yasuhiro Noma
+    - 275.000 m
+  - - - '139'
+      - Youngdon Lee
+    - 376.000 m
+- - - - '155'
+      - Abe Kemp
+    - 278.000 m
+  - - - '150'
+      - Alexey Labzin
+    - 292.000 m
+  - - - '152'
+      - Andrey Solomykin
+    - 280.000 m
+  - - - '92'
+      - Attila Bertok
+    - 278.000 m
+  - - - '77'
+      - Brodrick Osborne
+    - 260.000 m
+  - - - '151'
+      - Claudia Mejia
+    - 237.000 m
+  - - - '134'
+      - Dale Regehr
+    - 299.000 m
+  - - - '144'
+      - Enda Carrigan
+    - 232.000 m
+  - - - '138'
+      - Eungseng Kang
+    - 309.000 m
+  - - - '116'
+      - Filippo Oppici
+    - 283.000 m
+  - - - '120'
+      - Hiroshi Ono
+    - 294.000 m
+  - - - '104'
+      - Howard Jones
+    - 278.000 m
+  - - - '136'
+      - Jaeyong Hwang
+    - 291.000 m
+  - - - '146'
+      - Jonas Lobitz
+    - 283.000 m
+  - - - '43'
+      - Jonny Durand
+    - 275.000 m
+  - - - '126'
+      - Konstantin Lukyanov
+    - 313.000 m
+  - - - '112'
+      - Lukas Bader
+    - 295.000 m
+  - - - '149'
+      - Marc-Andre Rathe
+    - 281.000 m
+  - - - '135'
+      - Marcin Gil
+    - 284.000 m
+  - - - '156'
+      - Masayoshi Iwasaki
+    - 290.000 m
+  - - - '28'
+      - Mikhail Karmazin
+    - 290.000 m
+  - - - '7'
+      - Olav Opsanger
+    - 278.000 m
+  - - - '147'
+      - Oyvind Ellefsen
+    - 292.000 m
+  - - - '153'
+      - Pedro L. Garcia
+    - 255.000 m
+  - - - '14'
+      - Peter Burkitt
+    - 282.000 m
+  - - - '145'
+      - Philippe Michaud
+    - 0.000 m
+  - - - '128'
+      - Rich Reinauer
+    - 280.000 m
+  - - - '85'
+      - Rick Martin
+    - 285.000 m
+  - - - '42'
+      - Rob de Groot
+    - 261.000 m
+  - - - '22'
+      - Rohan Taylor
+    - 285.000 m
+  - - - '15'
+      - Ryosuke Hattori
+    - 274.000 m
+  - - - '142'
+      - Satoshi Nakamura
+    - 286.000 m
+  - - - '154'
+      - Steve Blackler
+    - 285.000 m
+  - - - '148'
+      - Thomas Mulder
+    - 299.000 m
+  - - - '31'
+      - Trent Brown
+    - 284.000 m
+  - - - '143'
+      - Ulrich Schneider
+    - 236.000 m
+  - - - '75'
+      - Yasuhiro Noma
+    - 281.000 m
+  - - - '139'
+      - Youngdon Lee
+    - 287.000 m

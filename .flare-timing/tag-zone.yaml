@@ -1,0 +1,1304 @@
+timing:
+- zonesSum:
+  - 0
+  - 0
+  - 0
+  zonesFirst:
+  - null
+  - null
+  - null
+  zonesLast:
+  - null
+  - null
+  - null
+  zonesRankTime:
+  - []
+  - []
+  - []
+  zonesRankPilot:
+  - []
+  - []
+  - []
+  lastLanding: 2020-01-07T09:05:37Z
+- zonesSum:
+  - 0
+  - 0
+  - 1
+  - 0
+  - 0
+  zonesFirst:
+  - null
+  - null
+  - 2020-01-08T06:38:16.067032753472Z
+  - null
+  - null
+  zonesLast:
+  - null
+  - null
+  - 2020-01-08T06:38:16.067032753472Z
+  - null
+  - null
+  zonesRankTime:
+  - []
+  - []
+  - - 2020-01-08T06:38:16.067032753472Z
+  - []
+  - []
+  zonesRankPilot:
+  - []
+  - []
+  - - - '155'
+      - Abe Kemp
+  - []
+  - []
+  lastLanding: 2020-01-08T08:40:39Z
+- zonesSum:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  zonesFirst:
+  - null
+  - null
+  - null
+  - null
+  - null
+  zonesLast:
+  - null
+  - null
+  - null
+  - null
+  - null
+  zonesRankTime:
+  - []
+  - []
+  - []
+  - []
+  - []
+  zonesRankPilot:
+  - []
+  - []
+  - []
+  - []
+  - []
+  lastLanding: 2020-01-09T08:50:36Z
+- zonesSum:
+  - 0
+  - 2
+  - 1
+  zonesFirst:
+  - null
+  - 2020-01-11T04:10:50.845260653424Z
+  - 2020-01-11T05:32:33.505787722236Z
+  zonesLast:
+  - null
+  - 2020-01-11T04:27:45.112946084352Z
+  - 2020-01-11T05:32:33.505787722236Z
+  zonesRankTime:
+  - []
+  - - 2020-01-11T04:10:50.845260653424Z
+    - 2020-01-11T04:27:45.112946084352Z
+  - - 2020-01-11T05:32:33.505787722236Z
+  zonesRankPilot:
+  - []
+  - - - '152'
+      - Andrey Solomykin
+    - - '148'
+      - Thomas Mulder
+  - - - '92'
+      - Attila Bertok
+  lastLanding: 2020-01-11T08:07:41Z
+tagging:
+- - - - '155'
+      - Abe Kemp
+    - null
+  - - - '150'
+      - Alexey Labzin
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '152'
+      - Andrey Solomykin
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '92'
+      - Attila Bertok
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '77'
+      - Brodrick Osborne
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '151'
+      - Claudia Mejia
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '134'
+      - Dale Regehr
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '144'
+      - Enda Carrigan
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '138'
+      - Eungseng Kang
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '116'
+      - Filippo Oppici
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '120'
+      - Hiroshi Ono
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '104'
+      - Howard Jones
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '136'
+      - Jaeyong Hwang
+    - null
+  - - - '146'
+      - Jonas Lobitz
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '43'
+      - Jonny Durand
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '62'
+      - Josh Woods
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '126'
+      - Konstantin Lukyanov
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '112'
+      - Lukas Bader
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '149'
+      - Marc-Andre Rathe
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '135'
+      - Marcin Gil
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '156'
+      - Masayoshi Iwasaki
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '28'
+      - Mikhail Karmazin
+    - null
+  - - - '7'
+      - Olav Opsanger
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '147'
+      - Oyvind Ellefsen
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '153'
+      - Pedro L. Garcia
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '14'
+      - Peter Burkitt
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '145'
+      - Philippe Michaud
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '128'
+      - Rich Reinauer
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '85'
+      - Rick Martin
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '42'
+      - Rob de Groot
+    - null
+  - - - '22'
+      - Rohan Taylor
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '115'
+      - Roy Sadewo
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '15'
+      - Ryosuke Hattori
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '142'
+      - Satoshi Nakamura
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '154'
+      - Steve Blackler
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '148'
+      - Thomas Mulder
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '31'
+      - Trent Brown
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '143'
+      - Ulrich Schneider
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '74'
+      - Vic Hare
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '75'
+      - Yasuhiro Noma
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '139'
+      - Youngdon Lee
+    - zonesTag:
+      - null
+      - null
+      - null
+- - - - '155'
+      - Abe Kemp
+    - zonesTag:
+      - null
+      - null
+      - inter:
+          fixFrac: 4777.033516376736
+          time: 2020-01-08T06:38:16.067032753472Z
+          lat: -33.85373
+          lng: 147.94195
+          alt: 1177
+        cross:
+          crossingPair:
+          - fix: 4763
+            time: 2020-01-08T06:37:48Z
+            lat: -33.85115
+            lng: 147.93863333
+            alt: 1177
+          - fix: 4764
+            time: 2020-01-08T06:37:50Z
+            lat: -33.85135
+            lng: 147.93885
+            alt: 1177
+          inZone:
+          - false
+          - true
+      - null
+      - null
+  - - - '150'
+      - Alexey Labzin
+    - null
+  - - - '152'
+      - Andrey Solomykin
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '92'
+      - Attila Bertok
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '77'
+      - Brodrick Osborne
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '151'
+      - Claudia Mejia
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '134'
+      - Dale Regehr
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '144'
+      - Enda Carrigan
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '138'
+      - Eungseng Kang
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '116'
+      - Filippo Oppici
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '120'
+      - Hiroshi Ono
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '104'
+      - Howard Jones
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '136'
+      - Jaeyong Hwang
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '146'
+      - Jonas Lobitz
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '43'
+      - Jonny Durand
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '62'
+      - Josh Woods
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '126'
+      - Konstantin Lukyanov
+    - null
+  - - - '112'
+      - Lukas Bader
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '149'
+      - Marc-Andre Rathe
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '135'
+      - Marcin Gil
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '156'
+      - Masayoshi Iwasaki
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '28'
+      - Mikhail Karmazin
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '7'
+      - Olav Opsanger
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '147'
+      - Oyvind Ellefsen
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '153'
+      - Pedro L. Garcia
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '14'
+      - Peter Burkitt
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '145'
+      - Philippe Michaud
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '128'
+      - Rich Reinauer
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '85'
+      - Rick Martin
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '42'
+      - Rob de Groot
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '22'
+      - Rohan Taylor
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '115'
+      - Roy Sadewo
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '15'
+      - Ryosuke Hattori
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '142'
+      - Satoshi Nakamura
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '154'
+      - Steve Blackler
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '148'
+      - Thomas Mulder
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '31'
+      - Trent Brown
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '143'
+      - Ulrich Schneider
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '74'
+      - Vic Hare
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '75'
+      - Yasuhiro Noma
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '139'
+      - Youngdon Lee
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+- - - - '155'
+      - Abe Kemp
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '150'
+      - Alexey Labzin
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '152'
+      - Andrey Solomykin
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '92'
+      - Attila Bertok
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '77'
+      - Brodrick Osborne
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '151'
+      - Claudia Mejia
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '134'
+      - Dale Regehr
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '144'
+      - Enda Carrigan
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '138'
+      - Eungseng Kang
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '116'
+      - Filippo Oppici
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '120'
+      - Hiroshi Ono
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '104'
+      - Howard Jones
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '136'
+      - Jaeyong Hwang
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '146'
+      - Jonas Lobitz
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '43'
+      - Jonny Durand
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '62'
+      - Josh Woods
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '126'
+      - Konstantin Lukyanov
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '112'
+      - Lukas Bader
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '149'
+      - Marc-Andre Rathe
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '135'
+      - Marcin Gil
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '156'
+      - Masayoshi Iwasaki
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '28'
+      - Mikhail Karmazin
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '7'
+      - Olav Opsanger
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '147'
+      - Oyvind Ellefsen
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '153'
+      - Pedro L. Garcia
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '14'
+      - Peter Burkitt
+    - null
+  - - - '145'
+      - Philippe Michaud
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '128'
+      - Rich Reinauer
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '85'
+      - Rick Martin
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '42'
+      - Rob de Groot
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '22'
+      - Rohan Taylor
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '115'
+      - Roy Sadewo
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '15'
+      - Ryosuke Hattori
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '142'
+      - Satoshi Nakamura
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '154'
+      - Steve Blackler
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '148'
+      - Thomas Mulder
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '31'
+      - Trent Brown
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '143'
+      - Ulrich Schneider
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '74'
+      - Vic Hare
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '75'
+      - Yasuhiro Noma
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '139'
+      - Youngdon Lee
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+- - - - '155'
+      - Abe Kemp
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '150'
+      - Alexey Labzin
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '152'
+      - Andrey Solomykin
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 4534.845260653424
+          time: 2020-01-11T04:10:50.845260653424Z
+          lat: -33.35695
+          lng: 147.93333
+          alt: 2325.69
+        cross:
+          crossingPair:
+          - fix: 3999
+            time: 2020-01-11T04:01:55Z
+            lat: -33.26805
+            lng: 147.95388333
+            alt: 1254
+          - fix: 4000
+            time: 2020-01-11T04:01:56Z
+            lat: -33.26788333
+            lng: 147.95391667
+            alt: 1256
+          inZone:
+          - true
+          - false
+      - null
+  - - - '92'
+      - Attila Bertok
+    - zonesTag:
+      - null
+      - null
+      - inter:
+          fixFrac: 8157.505787722237
+          time: 2020-01-11T05:32:33.505787722236Z
+          lat: -32.56608
+          lng: 148.22657
+          alt: 232.48
+        cross:
+          crossingPair:
+          - fix: 8050
+            time: 2020-01-11T05:30:46Z
+            lat: -32.60076667
+            lng: 148.21388333
+            alt: 555
+          - fix: 8051
+            time: 2020-01-11T05:30:47Z
+            lat: -32.60046667
+            lng: 148.21406667
+            alt: 552
+          inZone:
+          - false
+          - true
+  - - - '77'
+      - Brodrick Osborne
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '151'
+      - Claudia Mejia
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '134'
+      - Dale Regehr
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '144'
+      - Enda Carrigan
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '138'
+      - Eungseng Kang
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '116'
+      - Filippo Oppici
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '120'
+      - Hiroshi Ono
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '104'
+      - Howard Jones
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '136'
+      - Jaeyong Hwang
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '146'
+      - Jonas Lobitz
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '43'
+      - Jonny Durand
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '62'
+      - Josh Woods
+    - null
+  - - - '126'
+      - Konstantin Lukyanov
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '112'
+      - Lukas Bader
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '149'
+      - Marc-Andre Rathe
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '135'
+      - Marcin Gil
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '156'
+      - Masayoshi Iwasaki
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '28'
+      - Mikhail Karmazin
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '7'
+      - Olav Opsanger
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '147'
+      - Oyvind Ellefsen
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '153'
+      - Pedro L. Garcia
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '14'
+      - Peter Burkitt
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '145'
+      - Philippe Michaud
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '128'
+      - Rich Reinauer
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '85'
+      - Rick Martin
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '42'
+      - Rob de Groot
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '22'
+      - Rohan Taylor
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '115'
+      - Roy Sadewo
+    - null
+  - - - '15'
+      - Ryosuke Hattori
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '142'
+      - Satoshi Nakamura
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '154'
+      - Steve Blackler
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '148'
+      - Thomas Mulder
+    - zonesTag:
+      - null
+      - inter:
+          fixFrac: 5923.112946084352
+          time: 2020-01-11T04:27:45.112946084352Z
+          lat: -33.35695
+          lng: 147.93333
+          alt: 1395.11
+        cross:
+          crossingPair:
+          - fix: 5488
+            time: 2020-01-11T04:20:30Z
+            lat: -33.27105
+            lng: 147.96706667
+            alt: 960
+          - fix: 5489
+            time: 2020-01-11T04:20:31Z
+            lat: -33.27086667
+            lng: 147.96718333
+            alt: 961
+          inZone:
+          - true
+          - false
+      - null
+  - - - '31'
+      - Trent Brown
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '143'
+      - Ulrich Schneider
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '74'
+      - Vic Hare
+    - null
+  - - - '75'
+      - Yasuhiro Noma
+    - zonesTag:
+      - null
+      - null
+      - null
+  - - - '139'
+      - Youngdon Lee
+    - zonesTag:
+      - null
+      - null
+      - null
